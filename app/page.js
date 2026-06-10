@@ -179,7 +179,7 @@ export default function Home() {
           <div className="a-grid">
             <Reveal>
               <div className="portrait">
-                <img src="/img/performer-bw.jpg" alt="Philipp Zürcher" />
+                <img src="/img/philipp.webp" alt="Philipp Zürcher in his studio, at the pedal steel guitar" />
               </div>
             </Reveal>
             <Reveal delay={1}>
